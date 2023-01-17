@@ -1,0 +1,43 @@
+.shop_list1{
+	display: flex;
+	justify-content: row;
+	position: relative;
+	left: 350px;
+	
+}
+.foto4{
+	width: 500px;
+}
+.cart{
+	width:20px ;
+	height: 20px;
+}
+button{
+	font-size: 30px;
+}
+.dia{
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+.buy_dia{
+	font-size: 40px;
+}
+.info_tovar1{
+	width: 600px;
+	position: relative;
+	
+	background: #c7c7c1;
+}
+.fut{
+	position: relative;
+	left: 100px;
+}
+.cost{
+	position: relative;
+	left: 150px;
+}
+.size{
+	position: relative;
+	left: 100px;
+}
